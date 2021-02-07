@@ -1,11 +1,6 @@
 # insta-flood
 İNSTAGRAM FLOOD TOOLU 
 
-KULLANIM VİDEOSU MUTLAKA İZLEYİN!!!
-
-https://www.youtube.com/watch?v=0mV7Bh0bBFw
-
-
 Chrome:	
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 Edge:	
