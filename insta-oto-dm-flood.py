@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys 
+from selenium.webdriver.common.keys import Keys
 import time
 
 print("#######################################################")
@@ -8,7 +8,7 @@ print("                                                       ")
 print("                                                       ")
 print("                BOZKURT FLOOD ARAÇI                    ")
 print("                İnstagram: @b3zkurt                    ")
-print("      Web Site: https://bozkurthub.blogspot.com/       ")
+print("      Web Site: https://b3zkurt.wordpress.com/         ")
 print("                                                       ")
 print("                                                       ")
 print("                                                       ")
@@ -48,7 +48,7 @@ class Instagram:
          dm.click()
          dm = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[1]/div[1]/div/div[3]/button")
          dm.click()
-         
+       
          dmInput = self.browser.find_element_by_xpath("/html/body/div[5]/div/div/div[2]/div[1]/div/div[2]/input")
 
          dmInput.send_keys(f"{basılcak}")
@@ -61,10 +61,118 @@ class Instagram:
          msj = self.browser.find_element_by_xpath("/html/body/div[5]/div/div/div[1]/div/div[2]/div/button")
          msj.click()
          time.sleep(3)
-         
+       
     def oldu(self):
          msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
-     
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
+         msjInput.send_keys(f"{metin}")
+         msjInput.send_keys(Keys.ENTER)
+         time.sleep(0.5)
+
+         msjInput = self.browser.find_element_by_xpath("//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea")
+   
          msjInput.send_keys(f"{metin}")
          msjInput.send_keys(Keys.ENTER)
          time.sleep(0.5)
