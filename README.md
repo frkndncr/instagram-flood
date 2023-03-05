@@ -9,7 +9,3 @@ Firefox:
 https://github.com/mozilla/geckodriver/releases
 Safari:
 https://webkit.org/blog/6900/webdriver-support-in-safari-10/
-
-
-İNSTAGRAM: https://instagram.com/b3zkurt/
-GİTHUB: https://github.com/b3zkurt/
